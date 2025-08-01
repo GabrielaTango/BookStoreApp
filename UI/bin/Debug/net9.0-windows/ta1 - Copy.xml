@@ -1,0 +1,20 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <soapenv:Body>
+      <loginCmsResponse xmlns="http://wsaa.view.sua.dvadac.desein.afip.gov">
+         <loginCmsReturn><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1.0">
+    <header>
+        <source>CN=wsaahomo, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+        <destination>SERIALNUMBER=CUIT 20290077207, CN=prueba2025</destination>
+        <uniqueId>3873627599</uniqueId>
+        <generationTime>2025-07-19T18:12:09.178-03:00</generationTime>
+        <expirationTime>2025-07-20T06:12:09.178-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhaG9tbywgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZHN0PSJDTj13c2ZlLCBPPUFGSVAsIEM9QVIiIHVuaXF1ZV9pZD0iMTYyNDI5NjUwMSIgZ2VuX3RpbWU9IjE3NTI5NTk0NjkiIGV4cF90aW1lPSIxNzUzMDAyNzI5Ii8+CiAgICA8b3BlcmF0aW9uIHR5cGU9ImxvZ2luIiB2YWx1ZT0iZ3JhbnRlZCI+CiAgICAgICAgPGxvZ2luIGVudGl0eT0iMzM2OTM0NTAyMzkiIHNlcnZpY2U9IndzZmUiIHVpZD0iU0VSSUFMTlVNQkVSPUNVSVQgMjAyOTAwNzcyMDcsIENOPXBydWViYTIwMjUiIGF1dGhtZXRob2Q9ImNtcyIgcmVnbWV0aG9kPSIyMiI+CiAgICAgICAgICAgIDxyZWxhdGlvbnM+CiAgICAgICAgICAgICAgICA8cmVsYXRpb24ga2V5PSIyMDI5MDA3NzIwNyIgcmVsdHlwZT0iNCIvPgogICAgICAgICAgICA8L3JlbGF0aW9ucz4KICAgICAgICA8L2xvZ2luPgogICAgPC9vcGVyYXRpb24+Cjwvc3NvPgo=</token>
+        <sign>MDYlC+E/lumSr4CsnL69tXhiIc3e9Qv9Fd0hNrNqwCBEUfIZhAx9kpEIgLIhoMRQmNZPQffpw9aJblnKoI5wnZcgQOipxzHNfiOpQluqtnPn32kMNxkOUCLmbpwGfP8i3wDNlr0Nwlv4pUsGihu/U0rm8CvNl9fSYxy7bagybkU=</sign>
+    </credentials>
+</loginTicketResponse>]]></loginCmsReturn>
+      </loginCmsResponse>
+   </soapenv:Body>
+</soapenv:Envelope>

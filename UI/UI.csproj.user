@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Entities\FrmArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Entities\FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Entities\FrmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Entities\FrmEntitiesSimple.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Entities\FrmEntity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Entities\FrmMaestrosArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Entities\FrmMaestrosClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Procesos\FrmAgregarArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Procesos\FrmBuscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Procesos\FrmFacturador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
