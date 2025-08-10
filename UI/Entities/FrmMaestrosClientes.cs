@@ -46,6 +46,5 @@ namespace UI.Entities
             FrmCliente f = new FrmCliente(i);
             f.ShowDialog();
         }
-
     }
 }

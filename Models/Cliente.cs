@@ -9,6 +9,7 @@ namespace Models
         public string Nombre { get; set; }
         public int? Zona_Id { get; set; }
         public int? SubZona_Id { get; set; }
+        public int? Vendedor_Id { get; set; }
         public string? DomicilioComercial { get; set; }
         public string? DomicilioParticular { get; set; }
         public int? Provincia_Id { get; set; }
@@ -21,6 +22,7 @@ namespace Models
         public string? EMail { get; set; }
         public string? Contacto { get; set; }
         public string? TipoDocumento { get; set; }
+        public string? TipoDocArca { get; set; }
         public string? NroDocumento { get; set; }
         public string? NroIIBB { get; set; }
         public string? CategoriaIva { get; set; }

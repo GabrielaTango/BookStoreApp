@@ -86,6 +86,7 @@
             txtPrecio.Name = "txtPrecio";
             txtPrecio.Size = new Size(150, 27);
             txtPrecio.TabIndex = 4;
+            txtPrecio.Enter += NumericUpDown_Enter;
             txtPrecio.KeyDown += NumericUpDown_KeyDown;
             // 
             // txtCantidad
@@ -95,6 +96,7 @@
             txtCantidad.Name = "txtCantidad";
             txtCantidad.Size = new Size(126, 27);
             txtCantidad.TabIndex = 3;
+            txtCantidad.Enter += NumericUpDown_Enter;
             txtCantidad.KeyDown += NumericUpDown_KeyDown;
             // 
             // label1

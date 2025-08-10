@@ -13,3 +13,4 @@ D:\Repos\Bookstore app\DAL\obj\Debug\net9.0\DAL.dll
 D:\Repos\Bookstore app\DAL\obj\Debug\net9.0\refint\DAL.dll
 D:\Repos\Bookstore app\DAL\obj\Debug\net9.0\DAL.pdb
 D:\Repos\Bookstore app\DAL\obj\Debug\net9.0\ref\DAL.dll
+D:\Repos\Bookstore app\DAL\obj\Debug\net9.0\DAL.sourcelink.json

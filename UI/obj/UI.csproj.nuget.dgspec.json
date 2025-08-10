@@ -56,6 +56,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2025.7.0, )"
+            },
             "System.ServiceModel.Duplex": {
               "target": "Package",
               "version": "[6.0.*, )"

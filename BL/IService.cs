@@ -9,7 +9,9 @@ namespace BL
     public interface IService<T>
     {
         IEnumerable<T> GetAll();
+        IEnumerable<T> GetQuery(string query);
         T GetById(int id);
-        void Guardar(T entidad);
+        int Guardar(T entidad);
+        void Delete(int id);
     }
 }

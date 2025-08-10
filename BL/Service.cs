@@ -19,9 +19,9 @@ namespace BL
         {
             return _repository.GetById(v);
         }
-        public void Guardar(E entity)
+        public int Guardar(E entity)
         {
-            _repository.Add(entity);
+            return _repository.Add(entity);
         }
 
         public void Actualizar(E entity)
@@ -29,5 +29,14 @@ namespace BL
             _repository.Update(entity);
         }
 
+        public IEnumerable<E> GetQuery(string query)
+        {
+            return _repository.GetAllWithParam(query);
+        }
+
+        public void Delete(int id)
+        {
+            _repository.Delete(id);
+        }
     }
 }

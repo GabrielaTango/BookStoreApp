@@ -17,18 +17,29 @@ namespace UI.Procesos
     {
         private readonly Service<ArticuloRepository, Articulo> _artService = new Service<ArticuloRepository, Articulo>();
 
+        private readonly PrecioService _precioService = new PrecioService();
         public Detalle detalle;
-        public FrmAgregarArticulo()
+
+        private int _lista = 0;
+        public FrmAgregarArticulo(int lista)
         {
             InitializeComponent();
+            _lista = lista;
         }
 
         private void btnBuscar_Click(object sender, EventArgs e)
+        {
+            BuscarArticulo();
+        }
+
+        private void BuscarArticulo()
         {
             FrmBuscar fBuscar = new FrmBuscar(new QueryService("articulos"));
             if (fBuscar.ShowDialog() == DialogResult.OK)
             {
                 detalle = new Detalle(_artService.GetById(fBuscar.id));
+                var precio = _precioService.GetPrecio(_lista, detalle.Id);
+                txtPrecio.Value = precio;
                 txtCodigo.Text = detalle.Codigo;
                 txtDescripcion.Text = detalle.Descripcion;
                 SendKeys.Send("{TAB}");
@@ -37,7 +48,19 @@ namespace UI.Procesos
 
         private void FrmAgregarArticulo_Load(object sender, EventArgs e)
         {
+            this.Text = "Agregar Articulo";
+            if (detalle == null)
+                BuscarArticulo();
+            else
+            {
+                this.Text = "Modificar Articulo";
+                btnBuscar.Enabled = false;
+                txtCodigo.Text = detalle.Codigo;
+                txtDescripcion.Text = detalle.Descripcion;
+                txtCantidad.Value = detalle.Cantidad;
+                txtPrecio.Value = detalle.Precio;
 
+            }
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -54,7 +77,8 @@ namespace UI.Procesos
 
         private void NumericUpDown_Enter(object sender, EventArgs e)
         {
-            ((NumericUpDown)sender).Select();
+            NumericUpDown num = (NumericUpDown)sender;
+            num.Select(0, num.Text.Length);
         }
 
         private void NumericUpDown_KeyDown(object sender, KeyEventArgs e)

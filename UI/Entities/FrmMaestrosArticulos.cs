@@ -30,7 +30,7 @@ namespace UI.Entities
 
         protected override void EditarEntity(int i)
         {
-            FrmArticulo fArt = new FrmArticulo();
+            FrmArticulo fArt = new FrmArticulo(i);
             fArt.ShowDialog();
         }
 
@@ -46,6 +46,12 @@ namespace UI.Entities
             {
                 MessageBox.Show($"Error: {ex.Message}");
             }
+        }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            FrmArticulo fArticulo = new FrmArticulo(0);
+            fArticulo.ShowDialog();
         }
     }
 }

@@ -142,4 +142,32 @@
         public string Id { get; set; }
     }
 
+    public enum TipoComprobanteAfip
+    {
+        FacturaA = 1,
+        NotaDebitoA = 2,
+        NotaCreditoA = 3,
+
+        FacturaB = 6,
+        NotaDebitoB = 7,
+        NotaCreditoB = 8,
+
+        FacturaC = 11,
+        NotaDebitoC = 12,
+        NotaCreditoC = 13,
+        ReciboC = 15,
+
+        FacturaExportacion = 19,
+        NotaDebitoExportacion = 20,
+        NotaCreditoExportacion = 21,
+
+        FacturaM = 201,
+        NotaDebitoM = 202,
+        NotaCreditoM = 203,
+
+        FacturaT = 206,
+        NotaDebitoT = 207,
+        NotaCreditoT = 208
+    }
+
 }

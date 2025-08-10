@@ -12,8 +12,7 @@ namespace DAL.Repositories
 
         protected BaseRepository()
         {
-            _connection = new Connection();
-            
+            _connection = new Connection();  
         }
 
         public virtual IEnumerable<T> GetAll()
@@ -41,13 +40,16 @@ namespace DAL.Repositories
             return reader.Read() ? Map(reader) : default;
         }
 
-        public virtual void Add(T entity)
+        public virtual int Add(T entity)
         {
             using var conn = _connection.GetConnection();
             conn.Open();
-            using var cmd = new MySqlCommand(GetInsertQuery(), conn);
+            var query = GetInsertQuery() + Environment.NewLine;
+            query += "SELECT LAST_INSERT_ID();";
+            using var cmd = new MySqlCommand(query, conn);
             AddParameters(cmd, entity);
-            int r = cmd.ExecuteNonQuery();
+            int r = Convert.ToInt32(cmd.ExecuteScalar());
+            return r;
         }
 
         public virtual void Update(T entity)
@@ -77,5 +79,20 @@ namespace DAL.Repositories
         protected abstract string GetDeleteQuery();
         protected abstract void AddParameters(MySqlCommand cmd, T entity);
         protected abstract void SetUpdateParameters(MySqlCommand cmd, T entity);
+
+        public IEnumerable<T> GetAllWithParam(string query)
+        {
+            var list = new List<T>();
+            using var conn = _connection.GetConnection();
+            conn.Open();
+
+            using var cmd = new MySqlCommand(GetSelectAllQuery() + query, conn);
+            using var reader = cmd.ExecuteReader();
+
+            while (reader.Read())
+                list.Add(Map(reader));
+
+            return list;
+        }
     }
 }

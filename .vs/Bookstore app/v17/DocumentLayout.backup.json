@@ -3,164 +3,244 @@
   "WorkspaceRootPath": "D:\\Repos\\Bookstore app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\procesos\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\procesos\\frmfacturador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmfacturador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\procesos\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\procesos\\frmfacturador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmfacturador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\procesos\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\procesos\\frmfacturador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmfacturador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\procesos\\frmfacturador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmfacturador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\procesos\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|d:\\repos\\bookstore app\\bl\\queryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|solutionrelative:bl\\queryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\procesos\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|d:\\repos\\bookstore app\\bl\\precioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|solutionrelative:bl\\precioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|d:\\repos\\bookstore app\\bl\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|solutionrelative:bl\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\repositories\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|d:\\repos\\bookstore app\\bl\\entidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|solutionrelative:bl\\entidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\procesos\\frmfacturador.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmfacturador.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|d:\\repos\\bookstore app\\bl\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|solutionrelative:bl\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmentitiessimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmentitiessimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmentitiessimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmentitiessimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmmaestrosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmentitiessimple.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmentitiessimple.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\frmmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\frmmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmmaestrosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmmaestrosarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmmaestrosarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\procesos\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmmaestrosclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmmaestrosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmmaestrosprecios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosprecios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmmaestrosarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmmaestrosprecios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosprecios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\repositories\\preciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\preciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmmaestrosprecios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosprecios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\repositories\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|d:\\repos\\bookstore app\\bl\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|solutionrelative:bl\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|d:\\repos\\bookstore app\\bl\\entidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|solutionrelative:bl\\entidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|d:\\repos\\bookstore app\\bl\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|solutionrelative:bl\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\entidadsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\entidadsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmprecio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmprecio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmmaestrosarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\procesos\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\procesos\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmbuscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmmaestrosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmbase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmbase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmbase.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmbase.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmmaestrosclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmmaestrosarticulos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmmaestrosarticulos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmentitiessimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmentitiessimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|d:\\repos\\bookstore app\\bl\\comprobantepdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A8A523-A4AE-4D74-9C45-38819C6AA116}|BL\\BL.csproj|solutionrelative:bl\\comprobantepdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\comprobantes\\comprobantedetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\comprobantes\\comprobantedetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\comprobantes\\comprobante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\comprobantes\\comprobante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\caevto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\caevto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\repositories\\comprobanterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\comprobanterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|d:\\repos\\bookstore app\\models\\facturaelectronica\\envelope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A171D-91BC-4880-9DBC-5ACE63CE2EAE}|Models\\Models.csproj|solutionrelative:models\\facturaelectronica\\envelope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmentitiessimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmentitiessimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|d:\\repos\\bookstore app\\dal\\repositories\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575276EE-D851-40A2-8B4E-88E26E869D86}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\entities\\frmentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|D:\\Repos\\Bookstore app\\ui\\entities\\frmutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\entities\\frmutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|d:\\repos\\bookstore app\\ui\\procesos\\frmfacturador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7F1C38-C4DA-4EEC-964F-EC80B7878CAE}|UI\\UI.csproj|solutionrelative:ui\\procesos\\frmfacturador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -183,383 +263,396 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmAgregarArticulo.cs [Design]",
+              "Title": "FrmAgregarArticulo.cs",
               "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmAgregarArticulo.cs",
               "RelativeDocumentMoniker": "UI\\Procesos\\FrmAgregarArticulo.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmAgregarArticulo.cs [Design]*",
-              "RelativeToolTip": "UI\\Procesos\\FrmAgregarArticulo.cs [Design]*",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmAgregarArticulo.cs",
+              "RelativeToolTip": "UI\\Procesos\\FrmAgregarArticulo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T23:46:49.675Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-01T21:51:06.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmAgregarArticulo.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmAgregarArticulo.cs",
-              "RelativeDocumentMoniker": "UI\\Procesos\\FrmAgregarArticulo.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmAgregarArticulo.cs*",
-              "RelativeToolTip": "UI\\Procesos\\FrmAgregarArticulo.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAEwDsAAAAiAAAAAAAAAA==",
+              "Title": "PrecioService.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\BL\\PrecioService.cs",
+              "RelativeDocumentMoniker": "BL\\PrecioService.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\BL\\PrecioService.cs",
+              "RelativeToolTip": "BL\\PrecioService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA5wBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T23:49:14.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmFacturador.cs [Design]",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.cs",
-              "RelativeDocumentMoniker": "UI\\Procesos\\FrmFacturador.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.cs [Design]*",
-              "RelativeToolTip": "UI\\Procesos\\FrmFacturador.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T22:22:31.214Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmFacturador.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.cs",
-              "RelativeDocumentMoniker": "UI\\Procesos\\FrmFacturador.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.cs*",
-              "RelativeToolTip": "UI\\Procesos\\FrmFacturador.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAawDAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T22:57:06.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmFacturador.Designer.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\Procesos\\FrmFacturador.Designer.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.Designer.cs*",
-              "RelativeToolTip": "UI\\Procesos\\FrmFacturador.Designer.cs*",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAuwKkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T22:24:23.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QueryService.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\BL\\QueryService.cs",
-              "RelativeDocumentMoniker": "BL\\QueryService.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\BL\\QueryService.cs",
-              "RelativeToolTip": "BL\\QueryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T23:07:19.06Z",
+              "WhenOpened": "2025-08-09T15:53:31.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FrmBuscar.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmBuscar.cs",
-              "RelativeDocumentMoniker": "UI\\Procesos\\FrmBuscar.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmBuscar.cs",
-              "RelativeToolTip": "UI\\Procesos\\FrmBuscar.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wCYAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T22:47:21.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmBuscar.cs [Design]",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmBuscar.cs",
-              "RelativeDocumentMoniker": "UI\\Procesos\\FrmBuscar.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmBuscar.cs [Design]",
-              "RelativeToolTip": "UI\\Procesos\\FrmBuscar.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T23:10:26.203Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\Articulo.cs",
-              "RelativeDocumentMoniker": "Models\\Articulo.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\Articulo.cs",
-              "RelativeToolTip": "Models\\Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T03:39:31.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Detalle.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\Detalle.cs",
-              "RelativeDocumentMoniker": "Models\\Detalle.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\Detalle.cs",
-              "RelativeToolTip": "Models\\Detalle.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T00:06:38.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Service.cs",
               "DocumentMoniker": "D:\\Repos\\Bookstore app\\BL\\Service.cs",
               "RelativeDocumentMoniker": "BL\\Service.cs",
               "ToolTip": "D:\\Repos\\Bookstore app\\BL\\Service.cs",
               "RelativeToolTip": "BL\\Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T03:41:25.061Z",
+              "WhenOpened": "2025-08-01T23:08:51.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\Detalle.cs",
+              "RelativeDocumentMoniker": "Models\\Detalle.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\Detalle.cs",
+              "RelativeToolTip": "Models\\Detalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:04:05.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmFacturador.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.cs",
+              "RelativeDocumentMoniker": "UI\\Procesos\\FrmFacturador.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.cs [Design]",
+              "RelativeToolTip": "UI\\Procesos\\FrmFacturador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:09:35.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmFacturador.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.cs",
+              "RelativeDocumentMoniker": "UI\\Procesos\\FrmFacturador.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.cs",
+              "RelativeToolTip": "UI\\Procesos\\FrmFacturador.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAIA9wAYBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:09:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAgregarArticulo.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmAgregarArticulo.cs",
+              "RelativeDocumentMoniker": "UI\\Procesos\\FrmAgregarArticulo.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmAgregarArticulo.cs [Design]",
+              "RelativeToolTip": "UI\\Procesos\\FrmAgregarArticulo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:48:57.236Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmArticulo.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmArticulo.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmArticulo.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmArticulo.cs [Design]",
+              "RelativeToolTip": "UI\\Entities\\FrmArticulo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:35:07.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmUtil.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmUtil.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmUtil.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmUtil.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmUtil.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA5wA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:16:56.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmArticulo.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmArticulo.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmArticulo.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmArticulo.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmArticulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:35:10.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "FrmCliente.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmCliente.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmCliente.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmCliente.cs",
-              "RelativeToolTip": "UI\\Entities\\FrmCliente.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBEAAAAIAAAAAAAAAA==",
+              "Title": "FrmEntity.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntity.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmEntity.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntity.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmEntity.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T03:53:29.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "QueryRepository.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\QueryRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\QueryRepository.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\QueryRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\QueryRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADgvxMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T22:50:40.606Z",
+              "WhenOpened": "2025-08-02T00:23:53.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\BaseRepository.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAqwCgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T04:15:19.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EntidadService.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\BL\\EntidadService.cs",
-              "RelativeDocumentMoniker": "BL\\EntidadService.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\BL\\EntidadService.cs",
-              "RelativeToolTip": "BL\\EntidadService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T04:04:55.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FrmMain.cs [Design]",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\FrmMain.cs",
-              "RelativeDocumentMoniker": "UI\\FrmMain.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\FrmMain.cs [Design]",
-              "RelativeToolTip": "UI\\FrmMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T22:38:58.019Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\ClienteRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\ClienteRepository.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\ClienteRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\ClienteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T03:55:54.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DAL",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\DAL.csproj",
-              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
-              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\DAL.csproj",
-              "RelativeToolTip": "DAL\\DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-31T22:48:49.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Program.cs",
-              "RelativeDocumentMoniker": "UI\\Program.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Program.cs",
-              "RelativeToolTip": "UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T22:24:15.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FrmFacturador.resx",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.resx",
-              "RelativeDocumentMoniker": "UI\\Procesos\\FrmFacturador.resx",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.resx*",
-              "RelativeToolTip": "UI\\Procesos\\FrmFacturador.resx*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-31T22:24:22.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T22:49:05.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FrmEntitiesSimple.cs [Design]",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntitiesSimple.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmEntitiesSimple.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntitiesSimple.cs [Design]",
-              "RelativeToolTip": "UI\\Entities\\FrmEntitiesSimple.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T23:12:46.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FrmEntitiesSimple.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntitiesSimple.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmEntitiesSimple.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntitiesSimple.cs",
-              "RelativeToolTip": "UI\\Entities\\FrmEntitiesSimple.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAEwCUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T23:17:07.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "FrmCliente.cs [Design]",
               "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmCliente.cs",
               "RelativeDocumentMoniker": "UI\\Entities\\FrmCliente.cs",
               "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmCliente.cs [Design]",
               "RelativeToolTip": "UI\\Entities\\FrmCliente.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T23:12:47.725Z",
+              "WhenOpened": "2025-08-01T22:48:02.684Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 11,
               "Title": "FrmMaestrosClientes.cs [Design]",
               "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosClientes.cs",
               "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosClientes.cs",
               "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosClientes.cs [Design]",
               "RelativeToolTip": "UI\\Entities\\FrmMaestrosClientes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T00:55:38.574Z"
+              "WhenOpened": "2025-08-08T22:47:13.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmMaestrosPrecios.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosPrecios.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosPrecios.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosPrecios.cs [Design]",
+              "RelativeToolTip": "UI\\Entities\\FrmMaestrosPrecios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:16:00.923Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmPrecio.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmPrecio.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmPrecio.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmPrecio.cs [Design]",
+              "RelativeToolTip": "UI\\Entities\\FrmPrecio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:16:18.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmMaestrosArticulos.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosArticulos.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosArticulos.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosArticulos.cs [Design]",
+              "RelativeToolTip": "UI\\Entities\\FrmMaestrosArticulos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:35:17.742Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PrecioRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\PrecioRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\PrecioRepository.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\PrecioRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\PrecioRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:14:27.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T22:59:03.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmPrecio.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmPrecio.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmPrecio.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmPrecio.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmPrecio.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAASwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:16:20.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmMaestrosPrecios.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosPrecios.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosPrecios.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosPrecios.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmMaestrosPrecios.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:16:38.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T17:07:34.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAASwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:49:16.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "FrmMaestrosPrecios.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosPrecios.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosPrecios.Designer.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosPrecios.Designer.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmMaestrosPrecios.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAWwEIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:17:45.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:37:54.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ArticuloRepository.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\ArticuloRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ArticuloRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:31:05.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "IService.cs",
               "DocumentMoniker": "D:\\Repos\\Bookstore app\\BL\\IService.cs",
               "RelativeDocumentMoniker": "BL\\IService.cs",
               "ToolTip": "D:\\Repos\\Bookstore app\\BL\\IService.cs",
               "RelativeToolTip": "BL\\IService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T22:30:33.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FrmEntity.cs [Design]",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntity.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmEntity.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntity.cs [Design]",
-              "RelativeToolTip": "UI\\Entities\\FrmEntity.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T22:50:00.496Z"
+              "WhenOpened": "2025-08-02T16:40:29.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "FrmBase.cs [Design]",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmBase.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.cs [Design]",
-              "RelativeToolTip": "UI\\Entities\\FrmBase.cs [Design]",
+              "Title": "EntidadService.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\BL\\EntidadService.cs",
+              "RelativeDocumentMoniker": "BL\\EntidadService.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\BL\\EntidadService.cs",
+              "RelativeToolTip": "BL\\EntidadService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T22:43:33.22Z"
+              "WhenOpened": "2025-08-01T22:55:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\BL\\FacturaService.cs",
+              "RelativeDocumentMoniker": "BL\\FacturaService.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\BL\\FacturaService.cs",
+              "RelativeToolTip": "BL\\FacturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:49:16.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "FrmEntitiesSimple.Designer.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntitiesSimple.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmEntitiesSimple.Designer.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntitiesSimple.Designer.cs",
-              "RelativeToolTip": "UI\\Entities\\FrmEntitiesSimple.Designer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAIAAAAAAAAAA==",
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T04:05:54.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "FrmMaestrosClientes.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosClientes.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosClientes.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosClientes.cs",
-              "RelativeToolTip": "UI\\Entities\\FrmMaestrosClientes.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADgvxYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T00:55:41.721Z"
+              "WhenOpened": "2025-08-01T22:57:51.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "FrmMain.resx",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\FrmMain.resx",
-              "RelativeDocumentMoniker": "UI\\FrmMain.resx",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\FrmMain.resx",
-              "RelativeToolTip": "UI\\FrmMain.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-27T04:02:37.89Z",
+              "Title": "EntidadSimple.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\EntidadSimple.cs",
+              "RelativeDocumentMoniker": "Models\\EntidadSimple.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\EntidadSimple.cs",
+              "RelativeToolTip": "Models\\EntidadSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:28:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmPrecio.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmPrecio.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmPrecio.Designer.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmPrecio.Designer.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmPrecio.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAswHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:25:41.57Z",
               "EditorCaption": ""
             },
             {
@@ -570,105 +663,352 @@
               "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosArticulos.cs",
               "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosArticulos.cs",
               "RelativeToolTip": "UI\\Entities\\FrmMaestrosArticulos.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T03:24:35.989Z",
+              "WhenOpened": "2025-08-08T22:46:48.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "FrmMaestrosArticulos.cs [Design]",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosArticulos.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosArticulos.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosArticulos.cs [Design]",
-              "RelativeToolTip": "UI\\Entities\\FrmMaestrosArticulos.cs [Design]",
+              "Title": "FrmBuscar.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmBuscar.cs",
+              "RelativeDocumentMoniker": "UI\\Procesos\\FrmBuscar.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmBuscar.cs",
+              "RelativeToolTip": "UI\\Procesos\\FrmBuscar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T03:24:31.817Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Models.csproj",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\Models.csproj",
-              "RelativeDocumentMoniker": "Models\\Models.csproj",
-              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\Models.csproj",
-              "RelativeToolTip": "Models\\Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-27T03:39:28.332Z",
+              "WhenOpened": "2025-08-09T15:21:54.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "FrmArticulo.cs [Design]",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmArticulo.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmArticulo.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmArticulo.cs [Design]",
-              "RelativeToolTip": "UI\\Entities\\FrmArticulo.cs [Design]",
+              "DocumentIndex": 33,
+              "Title": "FrmBuscar.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmBuscar.cs",
+              "RelativeDocumentMoniker": "UI\\Procesos\\FrmBuscar.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmBuscar.cs [Design]",
+              "RelativeToolTip": "UI\\Procesos\\FrmBuscar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T03:26:34.708Z"
+              "WhenOpened": "2025-08-01T21:54:26.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\FrmMain.cs",
+              "RelativeDocumentMoniker": "UI\\FrmMain.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\FrmMain.cs",
+              "RelativeToolTip": "UI\\FrmMain.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:51:43.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "FrmMaestrosClientes.Designer.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosClientes.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosClientes.Designer.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosClientes.Designer.cs",
-              "RelativeToolTip": "UI\\Entities\\FrmMaestrosClientes.Designer.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAASwB8AAAAOAAAAAAAAAA==",
+              "Title": "Precio.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\Precio.cs",
+              "RelativeDocumentMoniker": "Models\\Precio.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\Precio.cs",
+              "RelativeToolTip": "Models\\Precio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T00:56:50.711Z"
+              "WhenOpened": "2025-08-08T23:13:47.674Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "FrmBase.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmBase.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.cs",
-              "RelativeToolTip": "UI\\Entities\\FrmBase.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAEwCkAAAAAAAAAAAAAAA==",
+              "Title": "FrmMaestrosClientes.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosClientes.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosClientes.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosClientes.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmMaestrosClientes.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAwwBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T22:19:44.642Z"
+              "WhenOpened": "2025-08-08T22:47:18.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "FrmBase.Designer.cs",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmBase.Designer.cs",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.Designer.cs",
-              "RelativeToolTip": "UI\\Entities\\FrmBase.Designer.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAawHgAAAAIAAAAAAAAAA==",
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\FrmMain.cs",
+              "RelativeDocumentMoniker": "UI\\FrmMain.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\FrmMain.cs [Design]",
+              "RelativeToolTip": "UI\\FrmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T22:33:52.084Z"
+              "WhenOpened": "2025-08-01T21:51:42.657Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "UI",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\UI.csproj",
-              "RelativeDocumentMoniker": "UI\\UI.csproj",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\UI.csproj",
-              "RelativeToolTip": "UI\\UI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-25T04:00:06.935Z",
+              "Title": "FrmCliente.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmCliente.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmCliente.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmCliente.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAWwFEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:48:54.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "FrmBase.resx",
-              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.resx",
-              "RelativeDocumentMoniker": "UI\\Entities\\FrmBase.resx",
-              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.resx",
-              "RelativeToolTip": "UI\\Entities\\FrmBase.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-24T22:52:22.54Z"
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "Models\\Articulo.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\Articulo.cs",
+              "RelativeToolTip": "Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:30:12.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmBase.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmBase.Designer.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.Designer.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmBase.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwD4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:56:35.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FrmMaestrosClientes.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosClientes.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosClientes.Designer.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosClientes.Designer.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmMaestrosClientes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:55:35.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmBase.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmBase.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.cs [Design]",
+              "RelativeToolTip": "UI\\Entities\\FrmBase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:15:36.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FrmBase.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmBase.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmBase.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmBase.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAtwCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:21:42.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FrmMaestrosArticulos.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosArticulos.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmMaestrosArticulos.Designer.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmMaestrosArticulos.Designer.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmMaestrosArticulos.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:55:14.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FrmEntitiesSimple.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntitiesSimple.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmEntitiesSimple.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntitiesSimple.cs [Design]",
+              "RelativeToolTip": "UI\\Entities\\FrmEntitiesSimple.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:17:50.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CAEVTO.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\CAEVTO.cs",
+              "RelativeDocumentMoniker": "Models\\CAEVTO.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\CAEVTO.cs",
+              "RelativeToolTip": "Models\\CAEVTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:07:42.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ComprobanteDetalle.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\Comprobantes\\ComprobanteDetalle.cs",
+              "RelativeDocumentMoniker": "Models\\Comprobantes\\ComprobanteDetalle.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\Comprobantes\\ComprobanteDetalle.cs",
+              "RelativeToolTip": "Models\\Comprobantes\\ComprobanteDetalle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:29:56.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ComprobantePDFGenerator.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\BL\\ComprobantePDFGenerator.cs",
+              "RelativeDocumentMoniker": "BL\\ComprobantePDFGenerator.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\BL\\ComprobantePDFGenerator.cs",
+              "RelativeToolTip": "BL\\ComprobantePDFGenerator.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwD8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:00:23.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ComprobanteRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\ComprobanteRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ComprobanteRepository.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\ComprobanteRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ComprobanteRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwDwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:31:56.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Comprobante.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\Comprobantes\\Comprobante.cs",
+              "RelativeDocumentMoniker": "Models\\Comprobantes\\Comprobante.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\Comprobantes\\Comprobante.cs",
+              "RelativeToolTip": "Models\\Comprobantes\\Comprobante.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:59:15.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:03:03.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Envelope.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\FacturaElectronica\\Envelope.cs",
+              "RelativeDocumentMoniker": "Models\\FacturaElectronica\\Envelope.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\FacturaElectronica\\Envelope.cs",
+              "RelativeToolTip": "Models\\FacturaElectronica\\Envelope.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAiwJAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:03:54.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:04:28.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FrmEntitiesSimple.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntitiesSimple.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmEntitiesSimple.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntitiesSimple.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmEntitiesSimple.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwDAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:17:52.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FrmEntity.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntity.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmEntity.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntity.cs [Design]",
+              "RelativeToolTip": "UI\\Entities\\FrmEntity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:45:16.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EntityRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\EntityRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\EntityRepository.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\DAL\\Repositories\\EntityRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\EntityRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:49:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FrmEntity.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntity.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmEntity.Designer.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmEntity.Designer.cs",
+              "RelativeToolTip": "UI\\Entities\\FrmEntity.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAawDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:45:03.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FrmUtil.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmUtil.cs",
+              "RelativeDocumentMoniker": "UI\\Entities\\FrmUtil.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Entities\\FrmUtil.cs [Design]",
+              "RelativeToolTip": "UI\\Entities\\FrmUtil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:15:47.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FrmFacturador.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Procesos\\FrmFacturador.Designer.cs",
+              "ToolTip": "D:\\Repos\\Bookstore app\\UI\\Procesos\\FrmFacturador.Designer.cs",
+              "RelativeToolTip": "UI\\Procesos\\FrmFacturador.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:18:46.033Z",
+              "EditorCaption": ""
             }
           ]
         }

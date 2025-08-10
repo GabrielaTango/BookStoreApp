@@ -23,5 +23,15 @@ namespace BL
         {
             return _repository.GetById(index);
         }
+
+        public bool Save(EntidadSimple e)
+        {
+            if (e.Id > 0)
+                _repository.Update(e); 
+            else
+                _repository.Add(e);
+
+            return true;
+        }
     }
 }

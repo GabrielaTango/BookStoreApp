@@ -1,6 +1,7 @@
 ﻿using BL;
 using DAL.Repositories;
 using Models;
+using MySqlX.XDevAPI.Relational;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,12 +11,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using UI.Entities;
 
 namespace UI
 {
-    public partial class FrmCliente : Form
+    public partial class FrmCliente : FrmUtil
     {
-        private readonly Service<ClienteRepository,Cliente> _service = new Service<ClienteRepository, Cliente>();
+        private readonly Service<ClienteRepository, Cliente> _service = new Service<ClienteRepository, Cliente>();
+
+        Cliente cliente;
 
         int _id;
         public FrmCliente(int id)
@@ -29,25 +33,29 @@ namespace UI
             CargarCombos();
 
             if (_id > 0)
-                CargarClienteEnFormulario(_service.GetById(_id));
+            {
+                cliente = _service.GetById(_id);
+                CargarClienteEnFormulario();
+            }
 
         }
 
-        private void CargarClienteEnFormulario(Cliente c)
+        private void CargarClienteEnFormulario()
         {
-            txtCodigo.Text = c.Codigo;
-            txtNombre.Text = c.Nombre;
-            cmbZona.SelectedValue = c.Zona_Id ?? -1;
-            cmbSubZona.SelectedValue = c.SubZona_Id ?? -1;
-            txtDomComercial.Text = c.DomicilioComercial;
-            txtDomParticular.Text = c.DomicilioParticular;
-            cmbProvincia.SelectedValue = c.Provincia_Id ?? -1;
-            txtCodigoPostal.Text = c.CodigoPostal;
-            dtpFechaAlta.Value = c.FechaAlta;
+            txtCodigo.Text = cliente.Codigo;
+            txtNombre.Text = cliente.Nombre;
+            cmbZona.SelectedValue = cliente.Zona_Id ?? -1;
+            cmbVendedor.SelectedValue = cliente.Vendedor_Id ?? -1;
+            cmbSubZona.SelectedValue = cliente.SubZona_Id ?? -1;
+            txtDomComercial.Text = cliente.DomicilioComercial;
+            txtDomParticular.Text = cliente.DomicilioParticular;
+            cmbProvincia.SelectedValue = cliente.Provincia_Id ?? -1;
+            txtCodigoPostal.Text = cliente.CodigoPostal;
+            dtpFechaAlta.Value = cliente.FechaAlta;
 
-            if (c.FechaInha.HasValue)
+            if (cliente.FechaInha.HasValue)
             {
-                dtpFechaInha.Value = c.FechaInha.Value;
+                dtpFechaInha.Value = cliente.FechaInha.Value;
                 dtpFechaInha.Checked = true;
             }
             else
@@ -55,18 +63,18 @@ namespace UI
                 dtpFechaInha.Checked = false;
             }
 
-            chkSoloContado.Checked = c.SoloContado;
-            txtTelefono.Text = c.Telefono;
-            txtTelefonoMovil.Text = c.TelefonoMovil;
-            txtEmail.Text = c.EMail;
-            txtContacto.Text = c.Contacto;
-            cmbTipoDoc.Text = c.TipoDocumento;
-            txtNroDoc.Text = c.NroDocumento;
-            txtIIBB.Text = c.NroIIBB;
-            cmbCategoriaIva.Text = c.CategoriaIva;
-            cmbCondicionPago.Text = c.CondicionPago;
-            nudDescuento.Value = c.Descuento ?? 0;
-            txtObservaciones.Text = c.Observaciones;
+            chkSoloContado.Checked = cliente.SoloContado;
+            txtTelefono.Text = cliente.Telefono;
+            txtTelefonoMovil.Text = cliente.TelefonoMovil;
+            txtEmail.Text = cliente.EMail;
+            txtContacto.Text = cliente.Contacto;
+            cmbTipoDoc.Text = cliente.TipoDocumento;
+            txtNroDoc.Text = cliente.NroDocumento;
+            txtIIBB.Text = cliente.NroIIBB;
+            cmbCategoriaIva.Text = cliente.CategoriaIva;
+            cmbCondicionPago.Text = cliente.CondicionPago;
+            nudDescuento.Value = cliente.Descuento ?? 0;
+            txtObservaciones.Text = cliente.Observaciones;
         }
 
         private void CargarCombos()
@@ -74,31 +82,28 @@ namespace UI
             CargarCombo(cmbZona, "zonas");
             CargarCombo(cmbProvincia, "provincias");
             CargarCombo(cmbSubZona, "subzonas");
-
-        }
-
-        private void CargarCombo(ComboBox cmb, string table)
-        {
-            cmb.DataSource = new EntidadService(table).GetAll();
-            cmb.ValueMember = "id";
-            cmb.DisplayMember = "descripcion";
+            CargarCombo(cmbTipoDoc, "tipodocumento");
+            CargarCombo(cmbVendedor, "vendedores");
+            CargarCombo(cmbCondicionPago, "condicionVenta");
         }
 
         private Cliente LeerFormularioACliente()
         {
-            return new Cliente
+            var c = new Cliente
             {
                 Id = _id,
                 Codigo = txtCodigo.Text.Trim(),
                 Nombre = txtNombre.Text.Trim(),
 
-                Zona_Id = cmbZona.SelectedValue != null ? (int?)Convert.ToInt32(cmbZona.SelectedValue) : null,
-                SubZona_Id = cmbSubZona.SelectedValue != null ? (int?)Convert.ToInt32(cmbSubZona.SelectedValue) : null,
+                Zona_Id = cmbZona.SelectedIndex > 0 ? (int?)Convert.ToInt32(cmbZona.SelectedValue) : null,
+                SubZona_Id = cmbSubZona.SelectedIndex > 0 ? (int?)Convert.ToInt32(cmbSubZona.SelectedValue) : null,
+
+                Vendedor_Id = cmbVendedor.SelectedIndex > 0 ? (int?)Convert.ToInt32(cmbVendedor.SelectedValue) : null,
 
                 DomicilioComercial = string.IsNullOrWhiteSpace(txtDomComercial.Text) ? null : txtDomComercial.Text.Trim(),
                 DomicilioParticular = string.IsNullOrWhiteSpace(txtDomParticular.Text) ? null : txtDomParticular.Text.Trim(),
 
-                Provincia_Id = cmbProvincia.SelectedValue != null ? (int?)Convert.ToInt32(cmbProvincia.SelectedValue) : null,
+                Provincia_Id = cmbProvincia.SelectedIndex > 0 ? (int?)Convert.ToInt32(cmbProvincia.SelectedValue) : null,
                 CodigoPostal = string.IsNullOrWhiteSpace(txtCodigoPostal.Text) ? null : txtCodigoPostal.Text.Trim(),
 
                 FechaAlta = dtpFechaAlta.Value,
@@ -112,30 +117,41 @@ namespace UI
                 EMail = string.IsNullOrWhiteSpace(txtEmail.Text) ? null : txtEmail.Text.Trim(),
                 Contacto = string.IsNullOrWhiteSpace(txtContacto.Text) ? null : txtContacto.Text.Trim(),
 
-                TipoDocumento = string.IsNullOrWhiteSpace(cmbTipoDoc.Text) ? null : cmbTipoDoc.Text.Trim(),
                 NroDocumento = string.IsNullOrWhiteSpace(txtNroDoc.Text) ? null : txtNroDoc.Text.Trim(),
 
                 NroIIBB = string.IsNullOrWhiteSpace(txtIIBB.Text) ? null : txtIIBB.Text.Trim(),
 
-                CategoriaIva = string.IsNullOrWhiteSpace(cmbCategoriaIva.Text) ? null : cmbCategoriaIva.Text.Trim(),
-                CondicionPago = string.IsNullOrWhiteSpace(cmbCondicionPago.Text) ? null : cmbCondicionPago.Text.Trim(),
+                CategoriaIva = cmbCategoriaIva.SelectedIndex > 0 ? cmbCategoriaIva.Text.Trim() : null,
+                CondicionPago = cmbCondicionPago.SelectedIndex > 0 ? cmbCondicionPago.Text.Trim() : null,
 
                 Descuento = nudDescuento.Value,
 
                 Observaciones = string.IsNullOrWhiteSpace(txtObservaciones.Text) ? null : txtObservaciones.Text.Trim()
             };
+
+            if (cmbTipoDoc.SelectedIndex > 0)
+            {
+                c.TipoDocumento = cmbTipoDoc.Text.Trim();
+                var id = (int)cmbTipoDoc.SelectedValue;
+                var codEntity = new EntidadService("tipodocumento").GetById(id).Codigo;
+                c.TipoDocArca = codEntity;
+            }
+            return c;
         }
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
-            if(Validar())
+            if (Validar())
             {
                 var cliente = LeerFormularioACliente();
 
-                if(_id > 0)
+                if (_id > 0)
                     _service.Actualizar(cliente);
                 else
                     _service.Guardar(cliente);
+
+                MessageOk("Ok", "Actualizado correctamente!");
+                this.Dispose();
             }
         }
 
@@ -169,32 +185,32 @@ namespace UI
             }
 
             // Zona (obligatorio)
-            if (cmbZona.SelectedIndex < 0)
+            if (cmbZona.SelectedIndex < 1)
             {
                 errorProvider1.SetError(cmbZona, "Debe seleccionar una Zona.");
                 esValido = false;
             }
 
             // SubZona (obligatorio)
-            if (cmbSubZona.SelectedIndex < 0)
+            if (cmbSubZona.SelectedIndex < 1)
             {
                 errorProvider1.SetError(cmbSubZona, "Debe seleccionar una SubZona.");
                 esValido = false;
             }
 
             // Provincia (obligatorio)
-            if (cmbProvincia.SelectedIndex < 0)
+            if (cmbProvincia.SelectedIndex < 1)
             {
                 errorProvider1.SetError(cmbProvincia, "Debe seleccionar una Provincia.");
                 esValido = false;
             }
 
             // Tipo Documento (opcional pero validable si completo nro documento)
-            if (!string.IsNullOrWhiteSpace(txtNroDoc.Text) && string.IsNullOrWhiteSpace(cmbTipoDoc.Text))
-            {
-                errorProvider1.SetError(cmbTipoDoc, "Debe seleccionar un Tipo de Documento.");
-                esValido = false;
-            }
+            //if (!string.IsNullOrWhiteSpace(txtNroDoc.Text) && string.IsNullOrWhiteSpace(cmbTipoDoc.Text))
+            //{
+            //    errorProvider1.SetError(cmbTipoDoc, "Debe seleccionar un Tipo de Documento.");
+            //    esValido = false;
+            //}
 
             // Email (si se completa, validar formato)
             if (!string.IsNullOrWhiteSpace(txtEmail.Text))
@@ -218,6 +234,11 @@ namespace UI
             }
 
             return esValido;
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+            this.Dispose();
         }
     }
 }

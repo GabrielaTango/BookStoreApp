@@ -30,6 +30,7 @@ namespace UI
             {
                 int i = (int)dgvCustomers.SelectedRows[0].Cells["Id"].Value;
                 EditarEntity(i);
+                CargarGrilla();
             }
         }
 
@@ -40,6 +41,7 @@ namespace UI
         private void button1_Click(object sender, EventArgs e)
         {
             EditarEntity(0);
+            CargarGrilla();
         }
     }
 }

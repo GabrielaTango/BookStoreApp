@@ -22,17 +22,17 @@ $"SELECT id, Codigo, Descripcion FROM {_table}";
             @$"
         INSERT INTO {_table} (
             Codigo,
-            Descripcion,
+            Descripcion
         ) VALUES (
             @Codigo,
-            @Descripcion,
+            @Descripcion
         );";
 
         protected override string GetUpdateQuery() =>
            @$"
         UPDATE {_table} SET
             Codigo = @Codigo,
-            Descripcion = @Descripcion,
+            Descripcion = @Descripcion
         WHERE Id = @Id;
     ";
 

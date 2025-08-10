@@ -8,10 +8,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using UI.Entities;
 
 namespace UI
 {
-    public partial class FrmEntitiesSimple : Form
+    public partial class FrmEntitiesSimple : FrmUtil
     {
         private readonly string _entity;
         private readonly EntidadService _service;
@@ -23,12 +24,12 @@ namespace UI
             this.Text = Capitalize(_entity);
         }
 
-        private string Capitalize(string entity)
+        private void FrmEntitySimple_Load(object sender, EventArgs e)
         {
-            return char.ToUpper(entity[0]) + entity.Substring(1).ToLower();
+            CargarDataGridView();
         }
 
-        private void FrmEntitySimple_Load(object sender, EventArgs e)
+        private void CargarDataGridView()
         {
             dgvEntities.DataSource = _service.GetAll();
         }
@@ -36,7 +37,8 @@ namespace UI
         private void nuevoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FrmEntity fEntity = new FrmEntity(_entity, 0);
-            fEntity.ShowDialog();
+            if (fEntity.ShowDialog() == DialogResult.OK)
+                CargarDataGridView();
         }
 
         private void dgvEntity_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
@@ -45,7 +47,8 @@ namespace UI
             {
                 int i = (int)dgvEntities.SelectedRows[0].Cells["Id"].Value;
                 FrmEntity fEntity = new FrmEntity(_entity,i);
-                fEntity.ShowDialog();
+                if (fEntity.ShowDialog() == DialogResult.OK)
+                    CargarDataGridView();
             }
         }
     }

@@ -62,6 +62,7 @@
             toolStripButton1 = new ToolStripButton();
             toolStripButton2 = new ToolStripButton();
             groupBox1 = new GroupBox();
+            cmbVendedor = new ComboBox();
             groupBox2 = new GroupBox();
             groupBox3 = new GroupBox();
             label10 = new Label();
@@ -125,6 +126,8 @@
             // 
             // dtpFechaAlta
             // 
+            dtpFechaAlta.CustomFormat = "dd/MMyyyy";
+            dtpFechaAlta.Format = DateTimePickerFormat.Custom;
             dtpFechaAlta.Location = new Point(269, 35);
             dtpFechaAlta.Name = "dtpFechaAlta";
             dtpFechaAlta.Size = new Size(250, 27);
@@ -133,6 +136,8 @@
             // 
             // dtpFechaInha
             // 
+            dtpFechaInha.CustomFormat = "dd/MMyyyy";
+            dtpFechaInha.Format = DateTimePickerFormat.Custom;
             dtpFechaInha.Location = new Point(546, 35);
             dtpFechaInha.Name = "dtpFechaInha";
             dtpFechaInha.Size = new Size(250, 27);
@@ -351,9 +356,11 @@
             toolStripButton2.Name = "toolStripButton2";
             toolStripButton2.Size = new Size(29, 24);
             toolStripButton2.Text = "Cancelar";
+            toolStripButton2.Click += toolStripButton2_Click;
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(cmbVendedor);
             groupBox1.Controls.Add(label1);
             groupBox1.Controls.Add(txtCodigo);
             groupBox1.Controls.Add(txtNombre);
@@ -366,6 +373,14 @@
             groupBox1.TabIndex = 18;
             groupBox1.TabStop = false;
             groupBox1.Text = "Cliente";
+            // 
+            // cmbVendedor
+            // 
+            cmbVendedor.FormattingEnabled = true;
+            cmbVendedor.Location = new Point(816, 34);
+            cmbVendedor.Name = "cmbVendedor";
+            cmbVendedor.Size = new Size(151, 28);
+            cmbVendedor.TabIndex = 9;
             // 
             // groupBox2
             // 
@@ -502,7 +517,7 @@
             Controls.Add(toolStrip1);
             Controls.Add(txtObservaciones);
             Name = "FrmCliente";
-            Text = "FrmCustomer";
+            Text = "Cliente";
             Load += FrmCustomer_Load;
             ((System.ComponentModel.ISupportInitialize)nudDescuento).EndInit();
             toolStrip1.ResumeLayout(false);
@@ -567,5 +582,6 @@
         private Label label12;
         private Label label11;
         private ErrorProvider errorProvider1;
+        private ComboBox cmbVendedor;
     }
 }

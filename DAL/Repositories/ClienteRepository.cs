@@ -21,6 +21,7 @@ namespace DAL.Repositories
             Nombre,
             Zona_Id,
             SubZona_Id,
+            Vendedor_Id,
             DomicilioComercial,
             DomicilioParticular,
             Provincia_Id,
@@ -38,7 +39,8 @@ namespace DAL.Repositories
             CategoriaIva,
             CondicionPago,
             Descuento,
-            Observaciones
+            Observaciones,
+            TipoDocArca
         ) VALUES (
             @Codigo,
             @Nombre,
@@ -61,7 +63,8 @@ namespace DAL.Repositories
             @CategoriaIva,
             @CondicionPago,
             @Descuento,
-            @Observaciones
+            @Observaciones,
+            @TipoDocArca
         );";
 
         protected override string GetUpdateQuery() =>
@@ -70,6 +73,7 @@ namespace DAL.Repositories
             Codigo = @Codigo,
             Nombre = @Nombre,
             Zona_Id = @Zona_Id,
+            Vendedor_Id = @Vendedor_Id,
             SubZona_Id = @SubZona_Id,
             DomicilioComercial = @DomicilioComercial,
             DomicilioParticular = @DomicilioParticular,
@@ -88,7 +92,8 @@ namespace DAL.Repositories
             CategoriaIva = @CategoriaIva,
             CondicionPago = @CondicionPago,
             Descuento = @Descuento,
-            Observaciones = @Observaciones
+            Observaciones = @Observaciones,
+            TipoDocArca = @TipoDocArca
         WHERE Id = @Id;
     ";
 
@@ -101,6 +106,7 @@ namespace DAL.Repositories
             cmd.Parameters.AddWithValue("@Codigo", cliente.Codigo);
             cmd.Parameters.AddWithValue("@Nombre", cliente.Nombre);
             cmd.Parameters.AddWithValue("@Zona_Id", cliente.Zona_Id);
+            cmd.Parameters.AddWithValue("@Vendedor_Id", cliente.Vendedor_Id);
             cmd.Parameters.AddWithValue("@SubZona_Id", cliente.SubZona_Id);
             cmd.Parameters.AddWithValue("@DomicilioComercial", cliente.DomicilioComercial);
             cmd.Parameters.AddWithValue("@DomicilioParticular", cliente.DomicilioParticular);
@@ -120,6 +126,7 @@ namespace DAL.Repositories
             cmd.Parameters.AddWithValue("@CondicionPago", cliente.CondicionPago);
             cmd.Parameters.AddWithValue("@Descuento", cliente.Descuento);
             cmd.Parameters.AddWithValue("@Observaciones", cliente.Observaciones);
+            cmd.Parameters.AddWithValue("@TipoDocArca", cliente.TipoDocArca);
         }
 
         protected override void SetUpdateParameters(MySqlCommand cmd, Cliente c)
@@ -141,6 +148,10 @@ namespace DAL.Repositories
             c.SubZona_Id = reader.IsDBNull(reader.GetOrdinal("SubZona_Id"))
                     ? null
                     : reader.GetInt32(reader.GetOrdinal("SubZona_Id"));
+
+            c.Vendedor_Id = reader.IsDBNull(reader.GetOrdinal("Vendedor_Id"))
+                   ? null
+                   : reader.GetInt32(reader.GetOrdinal("Vendedor_Id"));
 
             c.DomicilioComercial = reader.IsDBNull(reader.GetOrdinal("DomicilioComercial"))
                     ? null
@@ -182,9 +193,14 @@ namespace DAL.Repositories
                 ? null
                 : reader.GetString(reader.GetOrdinal("Contacto"));
 
+
             c.TipoDocumento = reader.IsDBNull(reader.GetOrdinal("TipoDocumento"))
                 ? null
                 : reader.GetString(reader.GetOrdinal("TipoDocumento"));
+
+            c.TipoDocArca = reader.IsDBNull(reader.GetOrdinal("TipoDocArca"))
+            ? null
+            : reader.GetString(reader.GetOrdinal("TipoDocArca"));
 
             c.NroDocumento = reader.IsDBNull(reader.GetOrdinal("NroDocumento"))
                 ? null

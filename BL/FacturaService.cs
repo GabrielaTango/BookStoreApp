@@ -1,4 +1,5 @@
 ﻿using BL.wsfev1;
+using Models;
 using Models.FacturaElectronica;
 using System.Security;
 using System.Security.Cryptography.X509Certificates;
@@ -177,7 +178,7 @@ namespace BL
 
         private int _proximo;
 
-        public void Facturar()
+        public CAEVTO Facturar(FECAEDetRequest c)
         {
             // Cargar el token desde archivo TA.xml
 
@@ -207,20 +208,8 @@ namespace BL
                             FeDetReq = new FeDetReq
                             {
                                 FECAEDetRequest = new List<FECAEDetRequest>
-                                { new FECAEDetRequest {
-                                        Concepto = 1,
-                                        DocTipo = 96,
-                                        DocNro = 28843882,
-                                        CbteDesde = _proximo + 1,
-                                        CbteHasta = _proximo + 1,
-                                        CbteFch = DateTime.Now.ToString("yyyyMMdd"),
-                                        ImpTotal = 121.00m,
-                                        ImpNeto = 121.00m,
-                                        ImpIVA = 0.00m,
-                                        MonId = "PES",
-                                        MonCotiz = 1.000m,
-                                        CondicionIVAReceptorId = 5
-                                        }
+                                { 
+                                    c
                                 }
                             }
                         }
@@ -259,11 +248,16 @@ namespace BL
                 string msg = err.SelectSingleNode("afip:Msg", ns)?.InnerText;
             }
 
+            CAEVTO caeYVto = new CAEVTO();
+
             if (caeNode != null && caeFchVtoNode != null)
             {
                 string cae = caeNode.InnerText;
-                string caeVto = caeFchVtoNode.InnerText;
+                DateTime caeVto = DateTime.ParseExact(caeFchVtoNode.InnerText, "yyyyMMdd", null);
+                caeYVto.CAE = cae;
+                caeYVto.VTO = caeVto;
             }
+            return caeYVto;
         }
 
         public bool UltimoComp()
@@ -308,7 +302,7 @@ namespace BL
 
                 int.TryParse(comp, out cbteNro);
 
-                _proximo = cbteNro;
+                _proximo = cbteNro + 1;
             }
             return true;
         }
@@ -328,6 +322,8 @@ namespace BL
             return index > 0 ? xml.Substring(index + 2) : xml;
         }
 
+        public int GetProximo() => _proximo;
+        
     }
 
     public static class SOAPAction

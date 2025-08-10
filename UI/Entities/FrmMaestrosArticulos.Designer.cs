@@ -28,7 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
+            panel1.SuspendLayout();
             SuspendLayout();
+            // 
+            // panel1
+            // 
+            panel1.Size = new Size(800, 87);
+            // 
+            // panel2
+            // 
+            panel2.Size = new Size(800, 363);
+            // 
+            // btnNuevo
+            // 
+            btnNuevo.Click += btnNuevo_Click;
             // 
             // FrmMaestrosArticulos
             // 
@@ -38,6 +51,8 @@
             Name = "FrmMaestrosArticulos";
             Text = "FrmMaestrosArticulos";
             Load += FrmMaestrosArticulos_Load;
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
             ResumeLayout(false);
         }
 
